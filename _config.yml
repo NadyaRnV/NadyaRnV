@@ -17,4 +17,4 @@ github_username:  NadyaRnV
 
 # Build settings
 markdown: kramdown
-future: true
+#future: true
